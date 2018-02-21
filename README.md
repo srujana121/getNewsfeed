@@ -1,5 +1,5 @@
 # getNewsfeed
-getparsedfeed in the file getfeed.py takes the arguments keyword and service ie either google or bing news. 
+getparsedfeed in the file getfeed.py takes the arguments keyword and service ie either google or bing news.      
 Eg : 
 
 ```python
